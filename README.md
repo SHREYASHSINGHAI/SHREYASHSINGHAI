@@ -40,7 +40,7 @@ A predictive analytics tool designed for market forecasting and data-driven insi
 
 ### 📫 Let's Connect
 
-*   **LinkedIn:** [shreyash-singhai-91115828a](https://www.linkedin.com/in/shreyash-singhai-91115828a/)
+*   **LinkedIn:** [shreyash-singhai-91115828a](https://www.linkedin.com/in/shreyash-singhai/)
 *   **Email:** [shreyashsinghai2005@gmail.com](mailto:shreyashsinghai2005@gmail.com)
 *   **Portfolio:** [shreyashsinghai.com](https://shreyash-singhai-portfolio.vercel.app/)
 *   **Instagram:** (https://www.instagram.com/shreyashsinghai?igsh=cGo5eGZieDlid3M4)
