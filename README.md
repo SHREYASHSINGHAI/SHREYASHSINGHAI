@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:0d1b3e,100:0d2137&height=220&section=header&text=Shreyash%20Singhai&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Building%20LLM%20Systems%20%26%20AI%20Agents&descSize=16&descAlignY=60&descColor=C4B5FD" />
-
 ![Profile Views](https://komarev.io/ghpvc/?username=SHREYASHSINGHAI&color=7C3AED&style=flat-square&label=Profile+Views)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1800&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+transformers+from+scratch;RAG+%C2%B7+Fine-tuning+%C2%B7+AI+Agents;Reading+papers+%7C+Shipping+code;Targeting+AI+research+internships+2026)](https://git.io/typing-svg)
@@ -9,9 +7,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-singhai-91115828a)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/YOUR_HF_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashsinghai@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jainshreyashsinghai)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashsinghai2005@gmail.com)
 
 </div>
 
