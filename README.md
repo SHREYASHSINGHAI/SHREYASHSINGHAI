@@ -99,7 +99,7 @@ shreyash = {
         "OSS collaborations in LLM / agents space",
         "Research paper implementations",
     ],
-    "contact": "shreyashsinghai@gmail.com",
+    "contact": "shreyashsinghai2005@gmail.com",
 }
 ```
 
