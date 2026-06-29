@@ -3,7 +3,6 @@
 <h1>Shreyash Singhai</h1>
 <p><strong>AI Engineer — Building LLM Systems & AI Agents</strong></p>
 
-![Profile Views](https://komarev.io/ghpvc/?username=SHREYASHSINGHAI&color=7C3AED&style=flat-square&label=Profile+Views)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1800&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+transformers+from+scratch;RAG+%C2%B7+Fine-tuning+%C2%B7+AI+Agents;Reading+papers+%7C+Shipping+code;Targeting+AI+research+internships+2026)](https://git.io/typing-svg)
 
