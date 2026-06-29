@@ -1,5 +1,8 @@
 <div align="center">
 
+<h1>Shreyash Singhai</h1>
+<p><strong>AI Engineer — Building LLM Systems & AI Agents</strong></p>
+
 ![Profile Views](https://komarev.io/ghpvc/?username=SHREYASHSINGHAI&color=7C3AED&style=flat-square&label=Profile+Views)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1800&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+transformers+from+scratch;RAG+%C2%B7+Fine-tuning+%C2%B7+AI+Agents;Reading+papers+%7C+Shipping+code;Targeting+AI+research+internships+2026)](https://git.io/typing-svg)
@@ -18,7 +21,7 @@
 >
 > **My focus:** ship things with actual code, proper tests, and working demos. No no-code wrappers. No course clones.
 
-**🎯 Goal:** AI research engineering internship at a top lab by 2026 — Anthropic · Google DeepMind · OpenAI
+**🎯 Goal:** AI research engineering internship at a top lab by 2027 — Anthropic · Google DeepMind · OpenAI
 
 ---
 
@@ -114,9 +117,5 @@ shreyash = {
 ---
 
 <div align="center">
-
-*If you're working on something in the LLM / agents / interpretability space — let's talk.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d2137&height=100&section=footer" />
-
+<i>If you're working on something in the LLM / agents / interpretability space — let's talk.</i>
 </div>
