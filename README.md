@@ -3,12 +3,13 @@
 <h1>Shreyash Singhai</h1>
 <p><strong>AI Engineer — Building LLM Systems & AI Agents</strong></p>
 
+![Profile Views](https://komarev.io/ghpvc/?username=SHREYASHSINGHAI&color=7C3AED&style=flat-square&label=Profile+Views)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1800&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+transformers+from+scratch;RAG+%C2%B7+Fine-tuning+%C2%B7+AI+Agents;Reading+papers+%7C+Shipping+code;Targeting+AI+research+internships+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1800&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+transformers+from+scratch;RAG+%C2%B7+Fine-tuning+%C2%B7+AI+Agents;Reading+papers+%7C+Shipping+code;Targeting+AI+research+internships+2026)](https://github.com/SHREYASHSINGHAI)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-singhai-91115828a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-singhai/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jainshreyashsinghai)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashsinghai2005@gmail.com)
 
@@ -16,11 +17,11 @@
 
 ---
 
-> AIML student at VIT Vellore (class of 2027), building real LLM systems, not tutorials. I implement research papers from scratch in PyTorch, build production grade RAG pipelines, and spend deliberate time understanding what these models are doing under the hood.
+> AIML student at VIT Vellore (class of 2027), building real LLM systems — not tutorials. I implement research papers from scratch in PyTorch, build production-grade RAG pipelines, and spend deliberate time understanding what these models are doing under the hood.
 >
 > **My focus:** ship things with actual code, proper tests, and working demos. No no-code wrappers. No course clones.
 
-**🎯 Goal:** AI research engineering internship at a top lab by 2027 — Anthropic · Google DeepMind · OpenAI
+**🎯 Goal:** AI research engineering internship at a top lab by 2026 — Anthropic · Google DeepMind · OpenAI
 
 ---
 
@@ -105,11 +106,23 @@ shreyash = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧰 Skills
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SHREYASHSINGHAI&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7&title=Commit,Stars,Followers,PullRequest,Issues,Repositories,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
