@@ -16,7 +16,7 @@
 
 ---
 
-> AIML student at VIT Vellore (class of 2027), building real LLM systems — not tutorials. I implement research papers from scratch in PyTorch, build production-grade RAG pipelines, and spend deliberate time understanding what these models are doing under the hood.
+> AIML student at VIT Vellore (class of 2027), building real LLM systems, not tutorials. I implement research papers from scratch in PyTorch, build production grade RAG pipelines, and spend deliberate time understanding what these models are doing under the hood.
 >
 > **My focus:** ship things with actual code, proper tests, and working demos. No no-code wrappers. No course clones.
 
