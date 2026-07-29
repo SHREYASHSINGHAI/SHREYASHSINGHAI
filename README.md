@@ -43,8 +43,7 @@
 - 📖 Attention Is All You Need
 - 📖 InstructGPT — Ouyang et al. (2022)
 - 📖 Constitutional AI — Anthropic
-- 📖 DPO — Rafailov et al. (2023)
-- 🧩 NeetCode 150 — 2 problems/day
+- 🧩 NeetCode 250
 
 </td>
 </tr>
