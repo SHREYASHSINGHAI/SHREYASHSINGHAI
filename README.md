@@ -31,8 +31,7 @@
 <td valign="top" width="50%">
 
 **Building**
-- 🔧 Inventory Agent v2 — Anthropic API + Google Sheets, real Python
-- 📄 DocuMind — private local RAG (LlamaIndex + Ollama + Chroma)
+- 🔧 BookMyAppointment - Reception Automation with booking and handling customer appointments
 - 🧠 nanoGPT — transformer from scratch in PyTorch
 - 📝 LoRA from scratch — raw PyTorch, no PEFT library
 
