@@ -67,10 +67,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHREYASHSINGHAI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=SHREYASHSINGHAI&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=7C3AED&fire=f0883e&currStreakLabel=A78BFA&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" height="165" />
+
+  <!-- Total Contributions Pill Badge -->
+  <a href="https://github.com/SHREYASHSINGHAI">
+    <img src="https://img.shields.io/badge/dynamic/json?color=7C3AED&label=Total%20Contributions&query=%24.total.lastYear&url=https%3A%2F%2Fgithub-contributions-api.jasonet.co%2FSHREYASHSINGHAI.json&style=for-the-badge&logo=github" alt="Total Contributions" height="35" />
+  </a>
+
+  <br /><br />
+
+  <!-- Main Stats & Streak Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SHREYASHSINGHAI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=SHREYASHSINGHAI&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=7C3AED&fire=f0883e&currStreakLabel=A78BFA&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" height="165" alt="GitHub Streak" />
+
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYASHSINGHAI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=8b949e&langs_count=6" height="140" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYASHSINGHAI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=8b949e&langs_count=6" height="140" alt="Top Languages" />
+
 </div>
 
 ---
