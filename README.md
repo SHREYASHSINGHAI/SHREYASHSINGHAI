@@ -24,20 +24,6 @@
 
 ---
 
-## 🔧 Currently
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Building**
-- 🔧 BookMyAppointment - Reception Automation with booking and handling customer appointments
-- 🧠 nanoGPT — transformer from scratch in PyTorch
-- 📝 LoRA from scratch — raw PyTorch, no PEFT library
-
-</td>
-<td valign="top" width="50%">
-
 **Studying**
 - 📖 Attention Is All You Need
 - 📖 InstructGPT — Ouyang et al. (2022)
