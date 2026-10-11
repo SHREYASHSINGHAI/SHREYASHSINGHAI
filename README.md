@@ -1,109 +1,109 @@
 <div align="center">
 
-<h1>Shreyash Singhai</h1>
-<p><strong>AI Engineer — Building LLM Systems & AI Agents</strong></p>
+# Shreyash Singhai
 
+**AI & ML Engineer · RAG Systems · LLM Evaluation · Agentic AI**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1800&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+transformers+from+scratch;RAG+%C2%B7+Fine-tuning+%C2%B7+AI+Agents;Reading+papers+%7C+Shipping+code;Targeting+AI+research+internships+2026)](https://github.com/SHREYASHSINGHAI)
+B.Tech, Computer Science & Engineering (AI & ML) · Vellore Institute of Technology · Class of 2027
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-singhai/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jainshreyashsinghai)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashsinghai2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-singhai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-three-ebon-47.vercel.app/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/jainshreyashsinghai)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyashsinghai2005@gmail.com)
 
 </div>
 
 ---
 
-> AIML student at VIT Vellore (class of 2027), building real LLM systems — not tutorials. I implement research papers from scratch in PyTorch, build production-grade RAG pipelines, and spend deliberate time understanding what these models are doing under the hood.
->
-> **My focus:** ship things with actual code, proper tests, and working demos. No no-code wrappers. No course clones.
+## About
 
-**🎯 Goal:** AI research engineering internship at a top lab by 2026 — Anthropic · Google DeepMind · OpenAI
+I build and evaluate LLM systems, including retrieval-augmented generation (RAG) pipelines and code-analysis tools, with a focus on measurable accuracy, cost and reliability. I am looking to apply AI/ML engineering to real client problems in technology delivery roles.
 
----
-
-**Studying**
-- 📖 Attention Is All You Need
-- 📖 InstructGPT — Ouyang et al. (2022)
-- 📖 Constitutional AI — Anthropic
-- 🧩 NeetCode 250
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Tools |
+| | |
 |:---|:---|
-| **LLM / Inference** | Anthropic API · OpenAI API · Ollama · llama.cpp |
-| **Orchestration** | LangChain · LlamaIndex · LangGraph |
-| **Vector stores** | Chroma · FAISS · Qdrant |
-| **Fine-tuning** | HuggingFace PEFT · LoRA · QLoRA · Unsloth |
-| **Evaluation** | RAGAS · LLM-as-judge |
-| **ML foundations** | PyTorch · NumPy · scikit-learn · pandas |
-| **Infrastructure** | Docker · FastAPI · pytest · GitHub Actions |
+| **Education** | B.Tech, CSE (AI & ML), Vellore Institute of Technology · CGPA 8.24 / 10 |
+| **Focus areas** | RAG · LLM evaluation · Agentic AI · Open-source LLMs |
+| **Currently** | Building Sentinel-Code; studying transformer and alignment papers |
 
 ---
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYASHSINGHAI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=8b949e&langs_count=6" height="140" alt="Top Languages" />
+## Featured Projects
 
-</div>
+### Sentinel-Code — AI Security Auditor for Git Diffs
+*Sep 2026 – Present · [Repository](REPLACE_WITH_SENTINEL_CODE_REPO_URL)*
 
----
+Context-aware auditor that detects security vulnerabilities and architectural anti-patterns in code changes before they are committed.
 
-## 👨‍💻 In Code
+- Language-aware pre-filtering skips trivial changes (formatting, non-code, comments) in under 1 ms per commit, giving an **estimated 48% token reduction** across test histories.
+- Git pre-commit hooks block high-risk security flaws locally.
+- File-aware context structuring and rule-based audit reporting with precise line attributions and affected files.
 
-```python
-shreyash = {
-    "currently_implementing": [
-        "Transformer architecture from scratch — PyTorch",
-        "LoRA adapters — raw linear algebra, no PEFT",
-        "Local RAG pipeline — LlamaIndex + Ollama + Chroma",
-    ],
-    "papers_reading": [
-        "Attention Is All You Need (Vaswani 2017)",
-        "InstructGPT (Ouyang 2022)",
-        "Constitutional AI (Anthropic 2022)",
-        "DPO: Direct Preference Optimization (Rafailov 2023)",
-    ],
-    "open_to": [
-        "AI research internships (Anthropic · Google DeepMind · OpenAI)",
-        "OSS collaborations in LLM / agents space",
-        "Research paper implementations",
-    ],
-    "contact": "shreyashsinghai2005@gmail.com",
-}
-```
+**Stack:** Python · LangChain · Gemini 2.5 Flash · Git hooks
 
----
+### Terminal-RAG — Offline CLI Retrieval-Augmented Generation Engine
+*Jul 2025 – Aug 2026 · [Repository](https://github.com/SHREYASHSINGHAI/Terminal-RAG)*
 
-## 🧰 Skills
+Local command-line RAG application for querying documents fully offline.
 
-<div align="center">
+- Vector retrieval with SentenceTransformers (`all-MiniLM-L6-v2`) and cosine similarity, using line-by-line chunking for context relevance and precision.
+- Timestamp-based pickle caching removes redundant embedding recalculation and speeds up startup.
+- Evaluation harness reporting **Hit Rate@K, MRR, Precision/Recall, Separation Gap and ROUGE** to verify retrieval and generation quality.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+**Stack:** Python · Hugging Face Transformers · Qwen 2.5 (0.5B) Instruct · SentenceTransformers · scikit-learn
 
-</div>
+### Item Recommendation Engine — K-Nearest Neighbors
+*Apr 2025 – May 2025 · [Repository](https://github.com/SHREYASHSINGHAI/Item-Recommendation-KNN)*
+
+Personalized product recommendations based on user-profile similarity.
+
+- Unsupervised KNN (Euclidean distance) over customer profiles.
+- Pandas and scikit-learn preprocessing: cleaning, age cohorts and categorical encoding.
+- Live inference combining user details with real-time seasonal variables to return the top 5 closest items.
+
+**Stack:** Python · scikit-learn · Pandas
 
 ---
 
-<div align="center">
-<i>If you're working on something in the LLM / agents / interpretability space — let's talk.</i>
-</div>
+## Technical Skills
+
+| Category | Technologies |
+|:---|:---|
+| **Languages** | Python, SQL, C++ |
+| **LLM & GenAI** | RAG, Agentic AI, Prompt Engineering (few-shot, chain-of-thought, structured outputs), Open-source LLMs (Qwen via Hugging Face) |
+| **Evaluation** | Hit Rate@K, MRR, Precision/Recall, ROUGE |
+| **Frameworks & Libraries** | LangChain, Hugging Face Transformers, scikit-learn, Pandas, NumPy |
+| **Databases & Cloud** | MySQL, Oracle Cloud Infrastructure (OCI) |
+| **Tools** | Git, Google Colab, Google AI Studio, Antigravity, n8n |
+
+---
+
+## Certifications
+
+| Certification | Issuer | Year | Coverage |
+|:---|:---|:---:|:---|
+| Oracle Agentic AI Professional | Oracle | 2026 | Multi-agent architectures, ReAct reasoning, tool orchestration, enterprise RAG, OCI AI governance |
+| Oracle Generative AI Professional | Oracle | 2025 | LLM architectures, RAG, prompt engineering, fine-tuning, LangChain on OCI |
+
+---
+
+## Leadership & Achievements
+
+- **Team Lead, Social Media & Analytics** · MERN Stack Club, Vellore Institute of Technology (Apr 2025 – May 2026): led data-driven campaigns that increased event participation by **18%**.
+- **Pre-Final Round Qualifier** · Bain Case Competition: qualified for the pre-final round of the national-level case study challenge hosted by Bain & Company.
+
+---
+
+## Currently Studying
+
+- *Attention Is All You Need* (Vaswani et al., 2017)
+- *Training Language Models to Follow Instructions with Human Feedback* (Ouyang et al., 2022)
+- *Constitutional AI: Harmlessness from AI Feedback* (Anthropic, 2022)
+- *Direct Preference Optimization* (Rafailov et al., 2023)
+
+---
+
+## Contact
+
+Open to internships and full-time opportunities in applied AI / ML.
+
+**Email:** [shreyashsinghai2005@gmail.com](mailto:shreyashsinghai2005@gmail.com) · **LinkedIn:** [shreyash-singhai](https://linkedin.com/in/shreyash-singhai/) · **Portfolio:** [portfolio-three-ebon-47.vercel.app](https://portfolio-three-ebon-47.vercel.app/)
