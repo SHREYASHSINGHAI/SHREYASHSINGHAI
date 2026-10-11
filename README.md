@@ -21,7 +21,7 @@ I build and evaluate LLM systems, including retrieval-augmented generation (RAG)
 
 | | |
 |:---|:---|
-| **Education** | B.Tech, CSE (AI & ML), Vellore Institute of Technology · CGPA 8.24 / 10 |
+| **Education** | B.Tech, CSE (AI & ML), Vellore Institute of Technology |
 | **Focus areas** | RAG · LLM evaluation · Agentic AI · Open-source LLMs |
 | **Currently** | Building Sentinel-Code; studying transformer and alignment papers |
 
