@@ -51,16 +51,17 @@ Local command-line RAG application for querying documents fully offline.
 
 **Stack:** Python · Hugging Face Transformers · Qwen 2.5 (0.5B) Instruct · SentenceTransformers · scikit-learn
 
-### Item Recommendation Engine — K-Nearest Neighbors
-*Apr 2025 – May 2025 · [Repository](https://github.com/SHREYASHSINGHAI/Item-Recommendation-KNN)*
+### Inventory Management AI Agent — Conversational Stock Tracking
+*[Repository](https://github.com/SHREYASHSINGHAI/inventory-Management-AI-Agent) · [Live Demo](https://inventory-management-ai-agent.vercel.app)*
 
-Personalized product recommendations based on user-profile similarity.
+Chat-driven assistant that lets users add, remove and query inventory in natural language (e.g. "We just received 50kg of coffee beans"), with a live dashboard that updates in real time.
 
-- Unsupervised KNN (Euclidean distance) over customer profiles.
-- Pandas and scikit-learn preprocessing: cleaning, age cohorts and categorical encoding.
-- Live inference combining user details with real-time seasonal variables to return the top 5 closest items.
+- Tool-calling agent built with the Vercel AI SDK, giving the LLM controlled read/write access to the database.
+- Real-time sync to a dashboard through Firebase Firestore, with no page reloads.
+- Dynamic unit conversion (e.g. kg to lbs) on request without changing stored data.
+- Deployed on Vercel with environment-based Firebase Admin initialization.
 
-**Stack:** Python · scikit-learn · Pandas
+**Stack:** TypeScript · Next.js · Gemini 2.5 Flash · Vercel AI SDK · Firebase Firestore · Tailwind CSS
 
 ---
 
@@ -68,11 +69,11 @@ Personalized product recommendations based on user-profile similarity.
 
 | Category | Technologies |
 |:---|:---|
-| **Languages** | Python, SQL, C++ |
-| **LLM & GenAI** | RAG, Agentic AI, Prompt Engineering (few-shot, chain-of-thought, structured outputs), Open-source LLMs (Qwen via Hugging Face) |
+| **Languages** | Python, SQL, C++, TypeScript |
+| **LLM & GenAI** | RAG, Agentic AI (tool-calling agents), Prompt Engineering (few-shot, chain-of-thought, structured outputs), Open-source LLMs (Qwen via Hugging Face) |
 | **Evaluation** | Hit Rate@K, MRR, Precision/Recall, ROUGE |
-| **Frameworks & Libraries** | LangChain, Hugging Face Transformers, scikit-learn, Pandas, NumPy |
-| **Databases & Cloud** | MySQL, Oracle Cloud Infrastructure (OCI) |
+| **Frameworks & Libraries** | LangChain, Vercel AI SDK, Next.js, Hugging Face Transformers, scikit-learn, Pandas, NumPy |
+| **Databases & Cloud** | MySQL, Firebase Firestore, Oracle Cloud Infrastructure (OCI), Vercel |
 | **Tools** | Git, Google Colab, Google AI Studio, Antigravity, n8n |
 
 ---
