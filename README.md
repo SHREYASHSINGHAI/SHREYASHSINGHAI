@@ -21,7 +21,7 @@ I build and evaluate LLM systems, including retrieval-augmented generation (RAG)
 
 | | |
 |:---|:---|
-| **Education** | B.Tech, CSE (AI & ML), Vellore Institute of Technology |
+| **Education** | B.Tech, CSE (AI & ML), Vellore Institute of Technology · CGPA 8.24 / 10 |
 | **Focus areas** | RAG · LLM evaluation · Agentic AI · Open-source LLMs |
 | **Currently** | Building Sentinel-Code; studying transformer and alignment papers |
 
@@ -83,13 +83,6 @@ Personalized product recommendations based on user-profile similarity.
 |:---|:---|:---:|:---|
 | Oracle Agentic AI Professional | Oracle | 2026 | Multi-agent architectures, ReAct reasoning, tool orchestration, enterprise RAG, OCI AI governance |
 | Oracle Generative AI Professional | Oracle | 2025 | LLM architectures, RAG, prompt engineering, fine-tuning, LangChain on OCI |
-
----
-
-## Leadership & Achievements
-
-- **Team Lead, Social Media & Analytics** · MERN Stack Club, Vellore Institute of Technology (Apr 2025 – May 2026): led data-driven campaigns that increased event participation by **18%**.
-- **Pre-Final Round Qualifier** · Bain Case Competition: qualified for the pre-final round of the national-level case study challenge hosted by Bain & Company.
 
 ---
 
