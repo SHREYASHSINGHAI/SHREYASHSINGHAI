@@ -2,10 +2,9 @@
 
 **AI & ML Engineer · Agentic Systems · Local RAG & LLM Evaluation · Full-Stack AI**
 
-[Portfolio](https://www.google.com/search?q=https%3A%2F%2Fshreyashsinghai-portfolio.vercel.app%2F)
-[LinkedIn](https://www.google.com/search?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshreyash-singhai%2F)
-[Resume](https://www.google.com/search?q=https%3A%2F%2Fshreyashsinghai-portfolio.vercel.app%2FShreyash_Singhai_Resume.pdf)
-[](mailto:shreyashsinghai2005@gmail.com)
+[Portfolio](https://portfolio-three-ebon-47.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/shreyash-singhai/)
+
 
 I am a Computer Science & Engineering (AI & ML) undergraduate at **VIT Bhopal University** (Class of 2027) focused on architecting token-efficient agentic workflows, offline retrieval-augmented generation (RAG) systems, and rigorous LLM evaluation harnesses. I enjoy taking AI systems from paper concepts to containerized, production-ready applications.
 
