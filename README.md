@@ -15,11 +15,11 @@ I am a Computer Science & Engineering (AI & ML) undergraduate at **VIT Bhopal Un
 
 | System | Core Architecture & Engineering Highlights | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Sentinel-Code](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2FSentinel-Code)** | Token-efficient AI security and architecture auditor for Git diffs. Features a language-aware local pre-filtering engine that strips formatting, comments, and non-code changes in **<1 ms per commit** (**48% token reduction** across test histories) and blocks high-risk flaws via zero-config Git pre-commit hooks. | `Python` `LangChain` `Gemini 2.5 Flash` `Git Hooks` `Shell` | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2FSentinel-Code) |
-| **[Terminal-RAG](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2FTerminal-RAG)** | Offline command-line RAG engine optimized for low-resource environments (4GB RAM). Combines line-by-line chunking, `all-MiniLM-L6-v2` vector retrieval, timestamp-based pickle caching, and a diagnostic benchmark harness measuring `Hit Rate@K`, `MRR`, `Precision/Recall`, `Separation Gap`, and `ROUGE`. | `Python` `Qwen 2.5 (0.5B)` `HF Transformers` `SentenceTransformers` `Scikit-Learn` | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2FTerminal-RAG) |
-| **[StockTalk](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2Finventory-Management-AI-Agent)** | Conversational B2B inventory and stock tracking agent enabling natural-language querying, real-time stock state updates, and automated low-inventory alerts. | `TypeScript` `Next.js` `Vercel AI SDK` `Gemini API` `Firebase Firestore` | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2Finventory-Management-AI-Agent) · [Portfolio](https://www.google.com/search?q=https%3A%2F%2Fshreyashsinghai-portfolio.vercel.app%2F) |
-| **[Meet-Summarizer](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2FMeet-Summarizer)** | End-to-end meeting intelligence pipeline ("Ear-Brain-Hands" architecture) connecting automated speech recognition (ASR) transcription to LLM action-item extraction and direct Notion/Slack API delivery. | `Python` `Streamlit` `LLMs` `ASR` `Notion & Slack APIs` | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2FMeet-Summarizer) · [Portfolio](https://www.google.com/search?q=https%3A%2F%2Fshreyashsinghai-portfolio.vercel.app%2F) |
-| **[Nexus App](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2Fnexus-app)** | Task-first AI discovery and recommendation engine indexing **15,000+ AI tools** with conversational prompt routing to match user workflows. | `JavaScript` `React` `AI Search` `Prompt Routing` | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2Fnexus-app) · [Portfolio](https://www.google.com/search?q=https%3A%2F%2Fshreyashsinghai-portfolio.vercel.app%2F) |
+| **[Sentinel-Code](https://github.com/SHREYASHSINGHAI/Sentinel-Code)** | Token-efficient AI security and architecture auditor for Git diffs. Features a language-aware local pre-filtering engine that strips formatting, comments, and non-code changes in **<1 ms per commit** (**48% token reduction** across test histories) and blocks high-risk flaws via zero-config Git pre-commit hooks. | `Python` `LangChain` `Gemini 2.5 Flash` `Git Hooks` `Shell` | [Repository](https://github.com/SHREYASHSINGHAI/Sentinel-Code) |
+| **[Terminal-RAG](https://github.com/SHREYASHSINGHAI/Terminal-RAG)** | Offline command-line RAG engine optimized for low-resource environments (4GB RAM). Combines line-by-line chunking, `all-MiniLM-L6-v2` vector retrieval, timestamp-based pickle caching, and a diagnostic benchmark harness measuring `Hit Rate@K`, `MRR`, `Precision/Recall`, `Separation Gap`, and `ROUGE`. | `Python` `Qwen 2.5 (0.5B)` `HF Transformers` `SentenceTransformers` `Scikit-Learn` | [Repository](https://github.com/SHREYASHSINGHAI/Terminal-RAG) |
+| **[StockTalk](https://github.com/SHREYASHSINGHAI/inventory-Management-AI-Agent)** | Conversational B2B inventory and stock tracking agent enabling natural-language querying, real-time stock state updates, and automated low-inventory alerts. | `TypeScript` `Next.js` `Vercel AI SDK` `Gemini API` `Firebase Firestore` | [Repository](https://github.com/SHREYASHSINGHAI/inventory-Management-AI-Agent) · [Portfolio](https://shreyashsinghai-portfolio.vercel.app) |
+| **[Meet-Summarizer](https://github.com/SHREYASHSINGHAI/Meet-Summarizer)** | End-to-end meeting intelligence pipeline ("Ear-Brain-Hands" architecture) connecting automated speech recognition (ASR) transcription to LLM action-item extraction and direct Notion/Slack API delivery. | `Python` `Streamlit` `LLMs` `ASR` `Notion & Slack APIs` | [Repository](https://github.com/SHREYASHSINGHAI/Meet-Summarizer) · [Portfolio](https://shreyashsinghai-portfolio.vercel.app) |
+| **[Nexus App](https://github.com/SHREYASHSINGHAI/nexus-app)** | Task-first AI discovery and recommendation engine indexing **15,000+ AI tools** with conversational prompt routing to match user workflows. | `JavaScript` `React` `AI Search` `Prompt Routing` | [Repository](https://github.com/SHREYASHSINGHAI/nexus-app) · [Portfolio](https://shreyashsinghai-portfolio.vercel.app) |
 
 ## Technical Stack
 
@@ -39,15 +39,8 @@ I am a Computer Science & Engineering (AI & ML) undergraduate at **VIT Bhopal Un
 ## Education, Achievements & Leadership
 
 * **B.Tech in Computer Science & Engineering (AI & ML)** — Vellore Institute of Technology (VIT Bhopal), 2023–2027 ·
-* **Pre-Final Round Qualifier, Bain Case Competition** — Qualified for the pre-final round of the national-level strategy case study challenge hosted by Bain & Company.
-* **Team Lead – Social Media & Analytics, MERN Stack Club (VIT)** — Planned and executed data-driven campaigns (Apr 2025 – May 2026), translating stakeholder goals into measurable KPIs and driving an **18% increase** in event participation.
 
-## Foundational Papers in My Reading Rotation
 
-* *Attention Is All You Need* — Vaswani et al. (2017)
-* *Training Language Models to Follow Instructions with Human Feedback (InstructGPT)* — Ouyang et al. (2022)
-* *Constitutional AI: Harmlessness from AI Feedback* — Bai et al. / Anthropic (2022)
-* *Direct Preference Optimization: Your Language Model is Secretly a Reward Model* — Rafailov et al. (2023)
 
 ## Connect With Me
 
