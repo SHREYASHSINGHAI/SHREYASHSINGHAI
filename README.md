@@ -1,103 +1,57 @@
-<div align="center">
-
 # Shreyash Singhai
 
-**AI & ML Engineer · RAG Systems · LLM Evaluation · Agentic AI**
+**AI & ML Engineer · Agentic Systems · Local RAG & LLM Evaluation · Full-Stack AI**
 
-B.Tech, Computer Science & Engineering (AI & ML) · Vellore Institute of Technology · Class of 2027
+[Portfolio](https://www.google.com/search?q=https%3A%2F%2Fshreyashsinghai-portfolio.vercel.app%2F)
+[LinkedIn](https://www.google.com/search?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshreyash-singhai%2F)
+[Resume](https://www.google.com/search?q=https%3A%2F%2Fshreyashsinghai-portfolio.vercel.app%2FShreyash_Singhai_Resume.pdf)
+[](mailto:shreyashsinghai2005@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-singhai/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-three-ebon-47.vercel.app/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/jainshreyashsinghai)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyashsinghai2005@gmail.com)
+I am a Computer Science & Engineering (AI & ML) undergraduate at **VIT Bhopal University** (Class of 2027) focused on architecting token-efficient agentic workflows, offline retrieval-augmented generation (RAG) systems, and rigorous LLM evaluation harnesses. I enjoy taking AI systems from paper concepts to containerized, production-ready applications.
 
-</div>
+* **Current Focus:** Agentic code auditing, low-resource local RAG pipelines, and quantitative retrieval/generation benchmarking (`Hit Rate@K`, `MRR`, `Separation Gap`, `ROUGE`).
+* **Status:** Open to **AI / ML Engineering** and **Software Engineering Internships**.
 
----
+## Featured Systems & Engineered Builds
 
-## About
+| System | Core Architecture & Engineering Highlights | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[Sentinel-Code](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2FSentinel-Code)** | Token-efficient AI security and architecture auditor for Git diffs. Features a language-aware local pre-filtering engine that strips formatting, comments, and non-code changes in **<1 ms per commit** (**48% token reduction** across test histories) and blocks high-risk flaws via zero-config Git pre-commit hooks. | `Python` `LangChain` `Gemini 2.5 Flash` `Git Hooks` `Shell` | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2FSentinel-Code) |
+| **[Terminal-RAG](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2FTerminal-RAG)** | Offline command-line RAG engine optimized for low-resource environments (4GB RAM). Combines line-by-line chunking, `all-MiniLM-L6-v2` vector retrieval, timestamp-based pickle caching, and a diagnostic benchmark harness measuring `Hit Rate@K`, `MRR`, `Precision/Recall`, `Separation Gap`, and `ROUGE`. | `Python` `Qwen 2.5 (0.5B)` `HF Transformers` `SentenceTransformers` `Scikit-Learn` | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2FTerminal-RAG) |
+| **[StockTalk](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2Finventory-Management-AI-Agent)** | Conversational B2B inventory and stock tracking agent enabling natural-language querying, real-time stock state updates, and automated low-inventory alerts. | `TypeScript` `Next.js` `Vercel AI SDK` `Gemini API` `Firebase Firestore` | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2Finventory-Management-AI-Agent) · [Portfolio](https://www.google.com/search?q=https%3A%2F%2Fshreyashsinghai-portfolio.vercel.app%2F) |
+| **[Meet-Summarizer](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2FMeet-Summarizer)** | End-to-end meeting intelligence pipeline ("Ear-Brain-Hands" architecture) connecting automated speech recognition (ASR) transcription to LLM action-item extraction and direct Notion/Slack API delivery. | `Python` `Streamlit` `LLMs` `ASR` `Notion & Slack APIs` | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2FMeet-Summarizer) · [Portfolio](https://www.google.com/search?q=https%3A%2F%2Fshreyashsinghai-portfolio.vercel.app%2F) |
+| **[Nexus App](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2Fnexus-app)** | Task-first AI discovery and recommendation engine indexing **15,000+ AI tools** with conversational prompt routing to match user workflows. | `JavaScript` `React` `AI Search` `Prompt Routing` | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSHREYASHSINGHAI%2Fnexus-app) · [Portfolio](https://www.google.com/search?q=https%3A%2F%2Fshreyashsinghai-portfolio.vercel.app%2F) |
 
-I build and evaluate LLM systems, including retrieval-augmented generation (RAG) pipelines and code-analysis tools, with a focus on measurable accuracy, cost and reliability. I am looking to apply AI/ML engineering to real client problems in technology delivery roles.
+## Technical Stack
 
-| | |
-|:---|:---|
-| **Education** | B.Tech, CSE (AI & ML), Vellore Institute of Technology · CGPA 8.24 / 10 |
-| **Focus areas** | RAG · LLM evaluation · Agentic AI · Open-source LLMs |
-| **Currently** | Building Sentinel-Code; studying transformer and alignment papers |
+| Domain | Technologies & Methods |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, SQL, C++, Java, Bash / Shell |
+| **LLM & Agentic AI** | RAG Architectures, Multi-Agent Orchestration (ReAct), Prompt Engineering (Few-Shot, Chain-of-Thought, Structured Outputs), LangChain, Hugging Face Transformers, Vercel AI SDK, Open-Source LLMs (Qwen 2.5), Gemini API, Anthropic API |
+| **Evaluation & ML** | Hit Rate@K, Mean Reciprocal Rank (MRR), Precision/Recall, Separation Gap, ROUGE, Scikit-Learn, SentenceTransformers, PyTorch, Pandas, NumPy, spaCy, NetworkX, MLflow |
+| **Backend, Cloud & MLOps** | FastAPI, Next.js, Streamlit, Docker, Oracle Cloud Infrastructure (OCI), AWS, Firebase Firestore, MySQL, Vercel, Git Pre-Commit Hooks, n8n |
 
----
+## Certifications & Verified Credentials
 
-## Featured Projects
+* **[Oracle Agentic AI Professional (2026)](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=1F6FF02701284F952AFD03ADCBFE1262657E96B8BF1F8DCBC7D48D8061030F51)** — Certified in multi-agent architectures, ReAct reasoning, tool orchestration, enterprise RAG, and OCI AI governance.
+* **[Oracle Generative AI Professional (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=DA53E0E5A841334545D959EA7F3F35A1BA408AD4FCFB7EEFD280A2F0F3E5C1BE)** — Certified in LLM architectures, RAG pipelines, prompt engineering, fine-tuning, and LangChain integration on Oracle Cloud Infrastructure.
+* **NPTEL Certifications** — Cloud Computing & Internet of Things (IoT).
 
-### Sentinel-Code — AI Security Auditor for Git Diffs
-*Sep 2026 – Present · [Repository](REPLACE_WITH_SENTINEL_CODE_REPO_URL)*
+## Education, Achievements & Leadership
 
-Context-aware auditor that detects security vulnerabilities and architectural anti-patterns in code changes before they are committed.
+* **B.Tech in Computer Science & Engineering (AI & ML)** — Vellore Institute of Technology (VIT Bhopal), 2023–2027 ·
+* **Pre-Final Round Qualifier, Bain Case Competition** — Qualified for the pre-final round of the national-level strategy case study challenge hosted by Bain & Company.
+* **Team Lead – Social Media & Analytics, MERN Stack Club (VIT)** — Planned and executed data-driven campaigns (Apr 2025 – May 2026), translating stakeholder goals into measurable KPIs and driving an **18% increase** in event participation.
 
-- Language-aware pre-filtering skips trivial changes (formatting, non-code, comments) in under 1 ms per commit, giving an **estimated 48% token reduction** across test histories.
-- Git pre-commit hooks block high-risk security flaws locally.
-- File-aware context structuring and rule-based audit reporting with precise line attributions and affected files.
+## Foundational Papers in My Reading Rotation
 
-**Stack:** Python · LangChain · Gemini 2.5 Flash · Git hooks
+* *Attention Is All You Need* — Vaswani et al. (2017)
+* *Training Language Models to Follow Instructions with Human Feedback (InstructGPT)* — Ouyang et al. (2022)
+* *Constitutional AI: Harmlessness from AI Feedback* — Bai et al. / Anthropic (2022)
+* *Direct Preference Optimization: Your Language Model is Secretly a Reward Model* — Rafailov et al. (2023)
 
-### Terminal-RAG — Offline CLI Retrieval-Augmented Generation Engine
-*Jul 2025 – Aug 2026 · [Repository](https://github.com/SHREYASHSINGHAI/Terminal-RAG)*
+## Connect With Me
 
-Local command-line RAG application for querying documents fully offline.
-
-- Vector retrieval with SentenceTransformers (`all-MiniLM-L6-v2`) and cosine similarity, using line-by-line chunking for context relevance and precision.
-- Timestamp-based pickle caching removes redundant embedding recalculation and speeds up startup.
-- Evaluation harness reporting **Hit Rate@K, MRR, Precision/Recall, Separation Gap and ROUGE** to verify retrieval and generation quality.
-
-**Stack:** Python · Hugging Face Transformers · Qwen 2.5 (0.5B) Instruct · SentenceTransformers · scikit-learn
-
-### Inventory Management AI Agent — Conversational Stock Tracking
-*[Repository](https://github.com/SHREYASHSINGHAI/inventory-Management-AI-Agent) · [Live Demo](https://inventory-management-ai-agent.vercel.app)*
-
-Chat-driven assistant that lets users add, remove and query inventory in natural language (e.g. "We just received 50kg of coffee beans"), with a live dashboard that updates in real time.
-
-- Tool-calling agent built with the Vercel AI SDK, giving the LLM controlled read/write access to the database.
-- Real-time sync to a dashboard through Firebase Firestore, with no page reloads.
-- Dynamic unit conversion (e.g. kg to lbs) on request without changing stored data.
-- Deployed on Vercel with environment-based Firebase Admin initialization.
-
-**Stack:** TypeScript · Next.js · Gemini 2.5 Flash · Vercel AI SDK · Firebase Firestore · Tailwind CSS
-
----
-
-## Technical Skills
-
-| Category | Technologies |
-|:---|:---|
-| **Languages** | Python, SQL, C++, TypeScript |
-| **LLM & GenAI** | RAG, Agentic AI (tool-calling agents), Prompt Engineering (few-shot, chain-of-thought, structured outputs), Open-source LLMs (Qwen via Hugging Face) |
-| **Evaluation** | Hit Rate@K, MRR, Precision/Recall, ROUGE |
-| **Frameworks & Libraries** | LangChain, Vercel AI SDK, Next.js, Hugging Face Transformers, scikit-learn, Pandas, NumPy |
-| **Databases & Cloud** | MySQL, Firebase Firestore, Oracle Cloud Infrastructure (OCI), Vercel |
-| **Tools** | Git, Google Colab, Google AI Studio, Antigravity, n8n |
-
----
-
-## Certifications
-
-| Certification | Issuer | Year | Coverage |
-|:---|:---|:---:|:---|
-| Oracle Agentic AI Professional | Oracle | 2026 | Multi-agent architectures, ReAct reasoning, tool orchestration, enterprise RAG, OCI AI governance |
-| Oracle Generative AI Professional | Oracle | 2025 | LLM architectures, RAG, prompt engineering, fine-tuning, LangChain on OCI |
-
----
-
-## Currently Studying
-
-- *Attention Is All You Need* (Vaswani et al., 2017)
-- *Training Language Models to Follow Instructions with Human Feedback* (Ouyang et al., 2022)
-- *Constitutional AI: Harmlessness from AI Feedback* (Anthropic, 2022)
-- *Direct Preference Optimization* (Rafailov et al., 2023)
-
----
-
-## Contact
-
-Open to internships and full-time opportunities in applied AI / ML.
-
-**Email:** [shreyashsinghai2005@gmail.com](mailto:shreyashsinghai2005@gmail.com) · **LinkedIn:** [shreyash-singhai](https://linkedin.com/in/shreyash-singhai/) · **Portfolio:** [portfolio-three-ebon-47.vercel.app](https://portfolio-three-ebon-47.vercel.app/)
+* **Portfolio & Live Deployments:** [shreyashsinghai-portfolio.vercel.app](https://www.google.com/search?q=https%3A%2F%2Fshreyashsinghai-portfolio.vercel.app%2F)
+* **LinkedIn:** [linkedin.com/in/shreyash-singhai](https://www.google.com/search?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshreyash-singhai%2F)
+* **Email:** [shreyashsinghai2005@gmail.com](mailto:shreyashsinghai2005@gmail.com)
